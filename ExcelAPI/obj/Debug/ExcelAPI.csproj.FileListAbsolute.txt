@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\bin\Debug\ExcelAPI.exe.config
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\bin\Debug\ExcelAPI.exe
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\bin\Debug\ExcelAPI.pdb
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.csproj.ResolveComReference.cache
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.Properties.Resources.resources
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.exe
+C:\Users\fabio\source\repos\ExcelAPI\ExcelAPI\obj\Debug\ExcelAPI.pdb
